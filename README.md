@@ -1,4 +1,4 @@
-## Personel Kayit Sistemi - Windows Forms .NET 6.0
+## Hastane Kayit Sistemi - Windows Forms .NET 6.0
 > Bu çalışmada hastahane kayıt sistemi (kaydetme, güncelleme, silme, listeleme, duyurular vb. işlemler) ile ilgili windows form uygulaması geliştirdim. Çalışmada ADO.NET ile SQL Server veritabanı olarak kullanılmıştır.
 
 <p align="center">
